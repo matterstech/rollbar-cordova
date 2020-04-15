@@ -16,7 +16,7 @@
 
     <platform name="android">
         <!-- production reference to rollbar-android -->
-        <framework src="com.rollbar:rollbar-android:1.+"/>
+        <framework src="com.rollbar:rollbar-java:1.+"/>
 
         <!-- local reference to rollbar-android, used only in development of rollbar-android
         <framework src="org.slf4j:slf4j-log4j12:+" type="gradleReference" />
